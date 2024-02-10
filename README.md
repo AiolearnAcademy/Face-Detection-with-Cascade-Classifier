@@ -5,7 +5,7 @@
 
 This project demonstrates face detection using the OpenCV Cascade Classifier. The script loads an image, converts it to RGB format, and applies the pre-trained Cascade Classifier model to detect faces in the image. The detected faces are then highlighted with green rectangles.
 
-## Usage
+# Usage
 
 To use this script, you will need to have OpenCV installed on your system. You can install OpenCV using pip:
 
